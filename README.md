@@ -26,13 +26,13 @@ Open http://localhost:8080. No npm install or build is needed. Use a local HTTP 
 
 ## Netlify deployment
 
-| Setting | Value |
-| --- | --- |
-| Repository | `ziskare-world/ziskare-dev` |
-| Production branch | `main` |
-| Base directory | Leave blank |
-| Build command | Leave blank |
-| Publish directory | `.` |
+| Setting           | Value                       |
+| ----------------- | --------------------------- |
+| Repository        | `ziskare-world/ziskare-dev` |
+| Production branch | `main`                      |
+| Base directory    | Leave blank                 |
+| Build command     | Leave blank                 |
+| Publish directory | `.`                         |
 
 `netlify.toml` defines the publish directory. Enable continuous deployment for automatic publishing after commits to `main`. Add `ziskare.dev` to the Netlify project's custom domains if it is not already configured. The custom `404.html` is served for unknown paths; this is not a single-page application and does not need a wildcard rewrite.
 
