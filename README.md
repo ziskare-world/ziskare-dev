@@ -4,7 +4,7 @@ The website for [ziskare.dev](https://ziskare.dev): a responsive, dependency-fre
 
 ## What is included
 
-- Refreshed responsive design with dark and light themes.
+- Futuristic blue design with the original cyan/blue palette, glowing orbital graphics, subtle grids, and dark/light themes.
 - Fourteen curated projects with multi-word search, five categories and alphabetical sorting.
 - Saved projects, stored locally in the visitor's browser; no account or server required.
 - Shareable search/category/sort URLs and a manual-copy fallback.

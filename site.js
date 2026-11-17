@@ -37,7 +37,7 @@
       "aria-label",
       `Switch to ${light ? "dark" : "light"} theme`,
     );
-    $("meta[name=theme-color]").content = light ? "#f6f7f2" : "#0a1015";
+    $("meta[name=theme-color]").content = light ? "#f2f6ff" : "#070914";
   };
   themeButton.addEventListener("click", () => {
     const next =
